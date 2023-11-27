@@ -10,8 +10,8 @@
             VerticalOptions="Center">
 
             <Image
-                Source="Pooh.jfif"
-                SemanticProperties.Description="Just Winnie the Pooh with his favourite food, hunny "
+                Source="pooh.jpg"
+                SemanticProperties.Description=" diid"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
